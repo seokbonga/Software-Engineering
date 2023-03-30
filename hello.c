@@ -7,5 +7,7 @@ int main(void)
     printf("Modify 1\n");
     printf("Modify 2\n");
 
+    printf("seokbonga 수정\n");
+
     return 0;
 }
